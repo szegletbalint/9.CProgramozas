@@ -1,0 +1,39 @@
+body{
+    background-color: white;
+    color: black;
+    font-family: Arial;
+}
+
+a, a:visited, a:link{
+    color: #336600
+}
+a:hover {
+    color:lightgreen;
+}
+
+
+#cim{
+    display: block;
+    margin:auto;
+}
+
+p:first-of-type{
+    font-weight: bold;
+    font-style: italic;
+}
+h2,h3 {
+    color: #22B14C;
+}
+#noveny {
+    display: block;
+    margin: auto;
+    position: absolute;
+    right: 10px;
+    top: 55%;
+    border: black 2px solid;
+}
+table {
+    position: relative;
+    left: 45%;
+    width: 200px;
+}
